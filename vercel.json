@@ -1,5 +1,5 @@
 {
     "redirects": [
-        { "source": "/:path*", "destination": "https://www.example.com/:path*" , "permanent": true}
+        { "source": "/:path*", "destination": "https://www.typedream.com/:path*" , "permanent": true}
     ]
 }
